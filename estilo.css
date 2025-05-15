@@ -1,0 +1,18 @@
+.direcao-linha {
+    display: flex;
+    padding: 1% 5% 0 5%;
+}
+
+.produtinhos-separados {
+    margin: 0 2% 2% 2%;
+}
+
+.tamanho {
+    margin: 90px 0 0 0;
+    height: 900px;
+    width: 1900px;
+}
+
+.tipos-comidas {
+    margin: 5% 0 0 7%;
+}
